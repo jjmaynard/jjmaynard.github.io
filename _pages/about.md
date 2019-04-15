@@ -1,20 +1,14 @@
 ---
 permalink: /
-title: "About me
-
-
-
-
-
-"
+title: " "
 #excerpt: "About me"
 header:
   overlay_image: Saso_Areal.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-
+  caption: " "
   actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+    - label: " "
+      url: " "
 author_profile: true
 redirect_from: 
   - /about/
