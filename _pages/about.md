@@ -1,14 +1,14 @@
 ---
 permalink: /
-#title:
-#excerpt:
+title:
+excerpt:
 header:
   overlay_image: Saso_Areal.jpg
-  overlay_filter: 1.0 # same as adding an opacity of 0.5 to a black background
-  caption: " "
+  overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
+  caption:
   actions:
-    - label: " "
-      url: " "
+    - label: 
+      url:
 author_profile: true
 redirect_from: 
   - /about/
