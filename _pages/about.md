@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Soil- and Eco- Informatics"
 excerpt: "About me"
 header:
   overlay_image: /images/Saso_Areal.jpg
