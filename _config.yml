@@ -83,9 +83,9 @@ author:
   name             : "Jonathan J Maynard"
   avatar           : "DSCN3233_edit.jpg"
   bio              : "Research Ecologist"
-  location         : #"Location"
-  employer         : "USDA-ARS Jornada Experimental Range"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "https://jornada.nmsu.edu/people/Jonathan-Maynard"
+  employer         : "USDA-ARS"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nyU9_dIAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Jonathan_Maynard"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2546-0073"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "soilspace"
   vine             :
   weibo            :
   xing             :
